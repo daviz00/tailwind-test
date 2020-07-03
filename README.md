@@ -2,4 +2,7 @@
  Testing out Tailwind CSS UI components
 
 ## Credits
- A special Thanks to Traversy Media for providing a good tutorial for getting started
+ A Special Thanks to <b>Traversy Media</b> for providing a good tutorial for getting started
+
+### Sample Image
+ ![image info](./dist/img/clip.jpg)
